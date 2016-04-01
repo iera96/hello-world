@@ -1,2 +1,3 @@
 # hello-world
-first_attempt
+
+Hi..I'm a newbie in using this GitHub..
